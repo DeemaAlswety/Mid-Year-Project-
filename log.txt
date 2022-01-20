@@ -1,0 +1,15 @@
+
+> w7@0.1.0 start
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.1.107/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/ahmad/code/github/deema_FILES/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Failed to compile.
+
+./src/Componants/Card.js
+Module not found: Can't resolve 'React' in '/home/ahmad/code/github/deema_FILES/src/Componants'
+Compiling...
